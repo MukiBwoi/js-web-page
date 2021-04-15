@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: url("./img/laptop.jpg") fixed center center no-repeat;
+}
